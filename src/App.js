@@ -1,5 +1,17 @@
 import React from 'react';
-import PitchBlitz from './PitchBlitz';
+import PitchBlitz froPaste this:
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#1a6e3c" />
+    <title>Pitch Blitz</title>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>m './PitchBlitz.jsx';
 
 function App() {
   return <PitchBlitz />;
